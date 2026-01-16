@@ -1,0 +1,8 @@
+{
+  "name": "EduTime Cloud Attendance",
+  "description": "A comprehensive cloud-based mobile time and attendance solution for schools, featuring GPS-verified punching, leave management, and AI-powered attendance analytics for teachers and staff.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
